@@ -1,0 +1,32 @@
+.bodyBox{
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+.imgSlider{
+	width: 750px;
+	height: 500px;
+}
+
+.rbtn:not(:last-child) {
+	margin-right: 40px;
+}
+.picNavigator {
+	margin-top: -45px;
+	position: absolute;
+	width: 800px;
+	display:flex;
+	justify-content: center;
+}
+
+.radioBtn {
+	border-radius: 100px;
+	width: 20px;
+	height: 20px;
+	border: 3px solid #58292A;
+}
+
+.radioBtn:hover{
+	background-color: #58292A;
+}

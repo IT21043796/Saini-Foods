@@ -1,0 +1,63 @@
+.HeaderTag {
+	border-top: 2px solid #4E2507;
+	background-color: navajowhite;
+}
+
+.images {
+	display: flex;	
+}
+
+.bx1_1{
+	flex:1;
+	margin-left: 15px;
+	margin-bottom: 0px;
+}
+/* Flex box designs for the photo */
+.bx1_2{
+	flex: 1;
+	margin-left: 5px;
+}
+
+.bx1_3{
+	flex: 1;
+	margin-left: 5px;
+}
+
+.bx2_1{
+	flex: 1;
+	margin-right: 5px;
+}
+
+.bx2_2{
+	flex: 1;
+	margin-right: 5px;
+}
+.bx2_3{
+	flex: 1;}
+.bx3_1{
+	flex: 1;}
+.bx3_2{
+	flex: 1;}
+.bx3_3
+{flex:1;}
+.bx4_1{
+	flex: 1;}
+.bx4_2{
+	flex: 1;}
+.bx4_3{
+	flex: 1;}
+.b1 {
+	flex:1;
+}
+
+.b2 {
+	flex:1;
+}
+
+.b3 {
+	flex:1;
+}
+
+.b4 {
+	flex:1;
+}

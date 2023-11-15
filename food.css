@@ -1,0 +1,139 @@
+
+.Pan {
+	display: flex;
+	margin-left:38px;
+	
+}
+.Pchicken{
+	flex: 1;
+}
+.Psaefood{
+	flex: 1;
+}
+.Psausage{
+	flex: 1;
+}
+.Pveggie{
+	flex: 1;
+}
+
+
+
+
+.Sandwitch {
+	display: flex;
+	margin-top: 25px;
+	margin-left: 30px;
+}
+.Sbeef{
+	flex: 1;
+}
+.Schicken{
+	flex: 1;
+}
+.Sroastchkn{
+	flex: 1;
+}
+.Svegei{
+	flex: 1;
+}
+
+
+.Burger {
+	display: flex;
+	margin-top: 25px;
+	margin-left: 30px;
+}
+.Bbacon{
+	flex: 1;
+}
+.Bcheeseburger{
+	flex: 1;
+}
+.Bdblecheese{
+	flex: 1;
+}
+.Bham{
+	flex: 1;
+}
+
+
+.Rice {
+	display: flex;
+	margin-top: 25px;
+	margin-left: 30px;
+}
+.Rchicken{
+	flex: 1;
+}
+.Regg{
+	flex: 1;
+}
+.Rnasigrn{
+	flex: 1;
+}
+.Rsaefood{
+	flex: 1;
+}
+
+
+.Noodle {
+	display: flex;
+	margin-top: 25px;
+	margin-left: 30px;
+}
+
+.Nbeef{
+	flex: 1;
+}
+.Nchicken{
+	flex: 1;
+}
+.Nshrimp{
+	flex: 1;
+}
+.Nvegei{
+	flex: 1;
+}
+
+.Custo {
+	width: 300px;
+	height: 50px;
+}
+.atc {
+	width:150px;
+	height: 50px;
+}
+
+.view {
+	width: 150px;
+	height: 50px;
+}
+
+.bodyBox input {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	background-color: darkkhaki;
+	border: none;
+	font-size: 16px;
+}
+
+.bodyBox input:hover{
+	background-color: khaki;
+	text-transform: uppercase;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+}
+
+.bodyBox h2 {
+	text-align: center;
+	width:300px;
+	/*background-color: #CFD173;*/
+	color: saddlebrown;
+}
+
+.Category {
+	background-color: lightgoldenrodyellow;
+	
+	border-top: 2px solid #98393B;
+	align-content: center;
+	align-items: center;
+}
